@@ -1,0 +1,4 @@
+1、使用MATLAB2014a打开此文件夹
+2、选择load file车型为：FUEL_CELL_text_in
+3、选择参数fuel cell功率为25kW，battery功率为20kW， Supercapacitor功率为20kW
+4、对比策略仿真时，打开model文件夹将BD_FUELCELLtextduibi.mdl改为BD_FUELCELLtext.mdl即可
