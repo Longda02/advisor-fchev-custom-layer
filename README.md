@@ -1,10 +1,3 @@
-# ADVISOR FCHEV Custom Energy-Management Layer
-
-本仓库只整理 ADVISOR 2002 之上的自定义 FCHEV 能量管理层，来源为 `F:\徐鹏飞整理材料\Advisor_Xu_Modifcation(Action)\Advisor_Lu_Modifcation`。
-
-## 为什么没有上传整个 ADVISOR 目录
-
-原目录中的 `advisor/` 含约 2,300 个第三方 ADVISOR 文件。为避免把第三方软件、可执行文件和生成缓存混入个人研究仓库，本仓库只保留自定义集成文件、模型权重和策略数据。使用者应从合法来源自行安装 ADVISOR 2002。
 
 ## 主要内容
 
